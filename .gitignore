@@ -1,0 +1,47 @@
+# Local secrets
+secrets.local.cfg
+
+# Buildout / Plone generated artifacts
+bin/
+develop-eggs/
+eggs/
+parts/
+var/
+.installed.cfg
+.mr.developer.cfg
+
+# mr.developer checkouts
+src/
+
+# Python virtualenv
+.venv/
+include/
+lib/
+lib64
+pyvenv.cfg
+
+# Python cache / tooling
+__pycache__/
+*.py[cod]
+*.so
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+htmlcov/
+coverage.xml
+
+# Frontend dependencies / build caches
+node_modules/
+dist/
+.parcel-cache/
+
+# IDE / editor
+.idea/
+.vscode/
+.claude/settings.local.json
+.codex
+
+# OS files
+.DS_Store
+Thumbs.db
