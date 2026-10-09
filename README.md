@@ -29,7 +29,7 @@ make fg
 
 `make setup` creates the project-root virtualenv (`bin/`, `lib/`, `include/`,
 `pyvenv.cfg`), installs the pinned buildout tooling from
-[`requirements-6.1.txt`](requirements-6.1.txt),
+[`requirements-6.2.txt`](requirements-6.2.txt),
 copies `secrets.example.cfg` to `secrets.local.cfg` when needed, and runs
 buildout.
 

@@ -10,7 +10,7 @@ VENV_PIP := bin/pip
 BUILDOUT := bin/buildout
 INSTANCE := bin/instance
 TEST_RUNNER := bin/test
-REQUIREMENTS := requirements-6.1.txt
+REQUIREMENTS := requirements-6.2.txt
 SECRETS_EXAMPLE := secrets.example.cfg
 SECRETS_LOCAL := secrets.local.cfg
 

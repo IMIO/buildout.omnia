@@ -1,6 +1,6 @@
 # imio.omnia — Buildout root
 
-Plone 6.1 buildout aggregating the **Omnia** add-on suite — iMio's AI-assisted features for Plone. Python 3.12, managed with `zc.buildout` + `mr.developer`.
+Plone 6.2 buildout aggregating the **Omnia** add-on suite — iMio's AI-assisted features for Plone. Python 3.12, managed with `zc.buildout` + `mr.developer`.
 
 ## Packages
 
